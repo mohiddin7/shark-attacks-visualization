@@ -1,0 +1,55 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    max-width: auto;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #001F3F;
+    color: white;
+    width: 100%;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+
+.navbar  website-name{
+    text-align: center;
+}
+.logo img {
+    width: 125px;
+    height: 75px;
+    padding-left: 30px;
+}
+
+.nav-elements a {
+    color: white;
+    margin: 0 5px;
+    padding-right: 20px;
+    text-decoration: none;
+}
+
+.nav-elements a:hover {
+    text-decoration: underline;
+}
+
+.website-name {
+    text-align: left;
+    padding-left: 30px;
+    flex-grow: 1;
+}
+
+.website-name h1 {
+    margin: 0;
+}

@@ -21,6 +21,7 @@ Clone this repository, then open the `index.html` file in your browser to view t
 git clone https://github.com/your-username/shark-attacks-visualization.git
 cd shark-attacks-visualization
 open index.html
+```
 
 ## Technologies Used
 - **HTML/CSS**: Web structure and styling

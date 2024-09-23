@@ -4,9 +4,11 @@ body {
     max-width: auto;
 }
 
+
 * {
     box-sizing: border-box;
 }
+/* Existing styles remain unchanged */
 
 .navbar {
     background-color: #001F3F;
@@ -69,7 +71,77 @@ body {
     margin-bottom: 20px;
 }
 
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.headline h1 {
+    color: #001F3F;
+    text-align: left;
+}
+
+h2 {
+    color: #333;
+    text-align: left;
+    font-size: 20px;
+}
+
 .intro {
     color: #333;
     text-align: justify;
+}
+
+/* Existing styles remain unchanged */
+
+.responsive-object-container {
+    max-width: 100%;
+    height: 800px;
+    overflow: hidden;
+}
+
+.chart object {
+    width: 100%;
+    height: 800px;
+}
+
+.chartforht{
+    margin-bottom: 10px;
+}
+.chart {
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color: #001F3F;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position:static;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer_text {
+    color: white;
+    text-align: right;
+    padding-right: 30px;
+}
+
+
+.footer_text1 {
+    color: white;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.lastnote{
+    font-size: 12px;
+    font-style: italic;
 }

@@ -53,3 +53,23 @@ body {
 .website-name h1 {
     margin: 0;
 }
+
+.article-container {
+    max-width: 900px;
+    margin:140px auto 20px auto ;
+    padding-top: 0px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.headline {
+    text-align: center;
+    color: #001F3F;
+    margin-bottom: 20px;
+}
+
+.intro {
+    color: #333;
+    text-align: justify;
+}

@@ -1,5 +1,7 @@
 # Tides of Terror: A Visual Investigation into Shark Attacks Worldwide
 
+https://mohiddin7.github.io/shark-attacks-visualization/
+
 ## Overview
 This project investigates shark attack patterns globally through interactive visualizations. It provides insights into trends, activities that trigger attacks, geographical hotspots, and shark species behind the statistics. The aim is to offer an analytical view of shark-human interactions.
 

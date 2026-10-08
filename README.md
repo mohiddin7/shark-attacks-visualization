@@ -20,7 +20,7 @@ This project investigates shark attack patterns globally through interactive vis
 Clone this repository, then open the `index.html` file in your browser to view the interactive visualizations.
 
 ```bash
-git clone https://github.com/your-username/shark-attacks-visualization.git
+git clone https://github.com/mohiddin7/shark-attacks-visualization.git
 cd shark-attacks-visualization
 open index.html
 ```
@@ -32,5 +32,5 @@ open index.html
 
 ## Author
 **Mohiddin Bacha Shaik**  
-This project was completed as part of a data visualization course, providing a narrative-driven exploration of shark attacks over the last century.
+A narrative-driven exploration of shark attacks over the last century.
 
